@@ -22,13 +22,10 @@ Here’s how Wazuh can supercharge your SOC:
 
 🦠 VirusTotal Integration – Detect and block malicious files by cross-referencing with the VirusTotal API. 
 
-  
-
 By leveraging these powerful features, Wazuh enables you to proactively secure your environment and stay one step ahead of cyber threats. 
 
   
 
-Have you implemented Wazuh in your SOC? Share your experience in the comments or visit my GitHub for configuration guides and tips! 
 
   
 
